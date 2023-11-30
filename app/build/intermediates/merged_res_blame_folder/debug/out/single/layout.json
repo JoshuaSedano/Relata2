@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_leer_relatos.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_leer_relatos.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_lectura.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_lectura.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_crear_relato_pjs.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_crear_relato_pjs.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_crear_relato.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_crear_relato.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_fin_relato.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_fin_relato.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_escribir_relato.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_escribir_relato.xml"
+    },
+    {
+        "merged": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-mergeDebugResources-46:\\layout\\activity_crear_relato_trama.xml",
+        "source": "C:\\Users\\joshu\\.gradle\\daemon\\8.0\\com.joshua.joshuarelata2.app-main-49:\\layout\\activity_crear_relato_trama.xml"
+    },
+    {
+        "merged": "com.joshua.joshuarelata2.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.joshua.joshuarelata2.app-main-49:/layout/activity_main.xml"
+    }
+]
